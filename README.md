@@ -4,7 +4,7 @@
 
 Please go to MySQL DB System and open your database as follow. Take note private IP Address carefully, you will need that to configure the Load Balancer to point to your MySQL DB System.
 
-![Image of Yaktocat](https://github.com/tripplea-sg/Load_Balancer/blob/main/preparation.png)
+![Image of Yaktocat](https://github.com/tripplea-sg/Load_Balancer/blob/main/Preparation.png)
 
 ## Create Load Balancer
 
