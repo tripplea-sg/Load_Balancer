@@ -42,21 +42,23 @@
 
 ### 11. Scroll down this page until you see list of *“Resources”* on the left. Click *“Backend Sets (1)”*.
 
+![Image of Yaktocat](https://github.com/tripplea-sg/Load_Balancer/blob/main/11.png)
 
 ### 12. You will see a backend set already configured by default. Click that *“backend set”* to continue.
 
+![Image of Yaktocat](https://github.com/tripplea-sg/Load_Balancer/blob/main/12.png)
 
 ### 13. It will bring you to the *“Backend Set”* setting. Click *“Backends (0)”* to create continue.
 
-
+![Image of Yaktocat](https://github.com/tripplea-sg/Load_Balancer/blob/main/13.png)
 
 ### 14. Click *“Add Backends”* to register your MySQL DB System.
 
-
+![Image of Yaktocat](https://github.com/tripplea-sg/Load_Balancer/blob/main/14.png)
 
 ### 15. Choose *“IP Addresses”*. Set *“IP Addresses”* to your MySQL DB System’s private IP Address. Set *“Port”* to *3306*. Click button *“Add”* to continue.
 
-
+![Image of Yaktocat](https://github.com/tripplea-sg/Load_Balancer/blob/main/15.png)
 
 ### 16. Click button *“Close”* on the following dialog box.
 
