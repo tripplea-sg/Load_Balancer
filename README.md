@@ -2,7 +2,7 @@
 
 ## Preparation
 
-Please go to MySQL DB System and open your database as follow. Take note private IP Address carefully, you will need that to configure the Load Balancer to point to your MySQL DB System.
+Please go to MySQL DB System and open your database as follow. Take note private IP Address carefully, you will need that to configure the Load Balancer to point to your MySQL DB System (see below sample, 10.0.1.127)
 
 ![Image of Yaktocat](https://github.com/tripplea-sg/Load_Balancer/blob/main/Preparation.png)
 
