@@ -62,17 +62,20 @@
 
 ### 16. Click button *“Close”* on the following dialog box.
 
-
+![Image of Yaktocat](https://github.com/tripplea-sg/Load_Balancer/blob/main/16.png)
 
 ### 17. You will see a backend is added to the backend set (see picture below), and that’s your MySQL DB System. The Backend will have *PENDING* state (as per picture below).
 
+![Image of Yaktocat](https://github.com/tripplea-sg/Load_Balancer/blob/main/17.png)
 
 ### 18. *Wait* a moment until The Backend is on *OK* state (as per picture below).
 
+![Image of Yaktocat](https://github.com/tripplea-sg/Load_Balancer/blob/main/18.png)
 
 ### 19. Click *“Load Balancers”* link to go back to the Load Balancer creation page.
 
+![Image of Yaktocat](https://github.com/tripplea-sg/Load_Balancer/blob/main/19.png)
 
 ### 20. Note the *Public IP Address* of your load balancer. You may need this when configuring data set on OAC.
 
-
+![Image of Yaktocat](https://github.com/tripplea-sg/Load_Balancer/blob/main/20.png)
