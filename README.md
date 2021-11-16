@@ -1,5 +1,13 @@
 # How to use Load Balancer for MySQL DB System
 
+## Preparation
+
+Please go to MySQL DB System and open your database as follow. Take note private IP Address carefully, you will need that to configure the Load Balancer to point to your MySQL DB System.
+
+![Image of Yaktocat](https://github.com/tripplea-sg/Load_Balancer/blob/main/preparation.png)
+
+## Create Load Balancer
+
 ### 1. From the console main menu on the left side select *Networking >> Load Balancers*.
 
 ![Image of Yaktocat](https://github.com/tripplea-sg/Load_Balancer/blob/main/1.png)
