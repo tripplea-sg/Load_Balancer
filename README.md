@@ -1,5 +1,10 @@
 # How to use Load Balancer for MySQL DB System
 
+### Content
+A. Preparation
+B. Create Load Balancer
+C. Create Backend Set for Load Balancer pointing to MDS
+
 ## A. Preparation
 
 Please go to MySQL DB System and open your database as follow. Take note private IP Address carefully, you will need that to configure the Load Balancer to point to your MySQL DB System (see below sample, 10.0.1.127)
