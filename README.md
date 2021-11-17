@@ -2,7 +2,7 @@
 
 ### Content
 A. Preparation </p>
-B. Create Load Balancer
+B. Create Load Balancer </p>
 C. Create Backend Set for Load Balancer pointing to MDS
 
 ## A. Preparation
