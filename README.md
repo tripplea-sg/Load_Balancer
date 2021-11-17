@@ -1,7 +1,7 @@
 # How to use Load Balancer for MySQL DB System
 
 ### Content
-A. Preparation </b>
+A. Preparation </p>
 B. Create Load Balancer
 C. Create Backend Set for Load Balancer pointing to MDS
 
