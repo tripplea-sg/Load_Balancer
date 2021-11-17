@@ -15,6 +15,8 @@ Please go to MySQL DB System and open your database as follow. Take note private
 
 ### 2. Add port 3306 to Security List on Public Subnet
 
+![Image of Yaktocat](https://github.com/tripplea-sg/Load_Balancer/blob/main/Screenshot%202021-11-17%20at%208.24.24%20AM.png)
+
 ## B. Create Load Balancer
 
 ### 1. From the console main menu on the left side select *Networking >> Load Balancers*.
